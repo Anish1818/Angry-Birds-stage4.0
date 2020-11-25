@@ -1,2 +1,2 @@
-# Angry-Birds-stage4.0
-We have created an invisible sling and the bird gets released with mouseReleased function
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
